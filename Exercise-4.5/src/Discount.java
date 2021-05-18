@@ -1,0 +1,4 @@
+
+interface Discount{
+	float rateOfDiscount();
+}
